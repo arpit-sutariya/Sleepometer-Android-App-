@@ -18,28 +18,6 @@
 3. Shared Preference for store temp data.
 4. Pie Chart, Line Chart.
 5. CalendarView.
-
-<h1 align=center> Project Admin  🤵 </h1>
-
-  <p align="center">
-  <a href="https://github.com/maityamit"><img src="https://avatars.githubusercontent.com/u/74618071?v=4" width="11%" /></a>
-
-  <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/maityamit/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="maityamit308@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/amit_maity_2003/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-  ## 📸 Screenshots
- 
-
- 
-
-||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
-| ![Imgur](Demo/1.png) | ![Imgur](Demo/2.png) | ![Imgur](Demo/3.png) |
-| ![Imgur](Demo/4.png) | ![Imgur](Demo/5.png) | ![Imgur](Demo/6.png) |
-| ![Imgur](Demo/7.png) | ![Imgur](Demo/8.png) | |
   
   
   
